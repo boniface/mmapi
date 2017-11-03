@@ -12,7 +12,7 @@ scalaVersion := "2.12.4"
 val PhantomVersion = "2.15.5"
 val PlayFrameWorkVersion = "2.6.7"
 val circeVersion = "0.8.0"
-val catsVersion ="1.0.0-RC1"
+val catsVersion ="1.0.0-MF"
 
 maintainer := "Boniface Kabaso <boniface@kabaso.com>"
 packageSummary in Linux := "Margin Mentor REST API"
